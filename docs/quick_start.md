@@ -145,7 +145,7 @@ flytomo
 flytomo --cfg /path/to/any_name.cfg
 ```
 You should now see the `FlyTomo` home page.
-![flytomo_homepage](./img/flytomo_homepage.png)
+![flytomo_homepage](./img/FlyTomo_homepage.png)
 **Figure 2. Homepage of `FlyTomo`**
 <br>
 ## 4. Data Preprocessing
@@ -161,7 +161,7 @@ Follow the six steps below (numbers correspond to Figure 3) to initiate preproce
 6. Click the "Start" button (6).
 ```
 
-![flytomo_processing_panel](./img/flytomo_process_panel.png)
+![flytomo_processing_panel](./img/FlyTomo_process_panel.png)
 **Figure 3. The "Process" panel of `FlyTomo`.**
 <br>
 
@@ -285,5 +285,6 @@ flytomo tsalign --input /path/to/data/yeast_stack --cfg /path/to/data/yeast/flyt
 ```
 
 Downstream applications (NovaCTF, IsoNet, MemBrain) are typically run from the GUI. If you prefer CLI, use the tools directly with the same project layout.
+
 
 ---
