@@ -185,9 +185,8 @@ Note that `FlyTomo` treats the **"Last Tomo"** cautiously. During on-the-fly pro
 At this point, `FlyTomo` repeatedly reports the "Last Tomo" name in the terminal and in the GUI status bar, and waits for your decision. In our case, it is "ts_01":
 ![process last tomo](./img/process_last_tomo.png)
 
-```none
 When you are sure that data collection for this tilt-series has finished (for example, the microscope/SerialEM has stopped, no new movie files are appearing in its folder, and you do not expect further TS to be added), click "Process Last Tomo" in the Process panel to let FlyTomo process this final, now-complete dataset.
-```
+
 
 ## 5. Evaluate Results
 
@@ -288,3 +287,4 @@ Downstream applications (NovaCTF, IsoNet, MemBrain) are typically run from the G
 
 
 ---
+
