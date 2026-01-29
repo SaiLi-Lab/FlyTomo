@@ -35,7 +35,7 @@ Before starting the tutorial, one should get to know the `FlyTomo` file organiza
 
 ## 2. Install Check + Get Sample Data
 
-We assume `FlyTomo` is installed and first-time configuration is done. If not, see [`FlyTomo` installation](./installation.md).
+We assume `FlyTomo` is installed and first-time configuration is done. If not, see [`FlyTomo UserGuide` installation](./UserGuide.md).
 
 Quick check (adjust the path as needed):
 
@@ -287,4 +287,5 @@ Downstream applications (NovaCTF, IsoNet, MemBrain) are typically run from the G
 
 
 ---
+
 
